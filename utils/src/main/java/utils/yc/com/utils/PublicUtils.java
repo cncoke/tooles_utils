@@ -18,6 +18,9 @@ import org.json.JSONObject;
  */
 
 public class PublicUtils {
+    public static String getTest(){
+        return "fangliguo";
+    }
     /**
      * get App versionCode
      *
